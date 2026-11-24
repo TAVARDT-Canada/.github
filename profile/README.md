@@ -10,7 +10,7 @@ TAVARDT is a digital engineering consultancy, cyber defence practice, and growth
 
 This repository serves as the central technical distribution and documentation hub for the Canadian operational territory, aligned with Canadian regulatory, privacy, and cyber defence standards (Personal Information Protection and Electronic Documents Act - PIPEDA, Quebec Law 25, Canadian Anti-Spam Legislation - CASL, and Canadian Centre for Cyber Security baseline controls).
 
----
+***
 
 ## 1. Primary Portals
 
@@ -18,7 +18,7 @@ This repository serves as the central technical distribution and documentation h
 * [TAVARDT Diagnostic & Verification Suite](https://tools.tavardt.com/ca/)
 * [Technical Inquiries & Client Governance](https://ag.tavardt.com/ca/contact/)
 
----
+***
 
 ## 2. Technical & Strategic Services
 
@@ -73,7 +73,7 @@ This repository serves as the central technical distribution and documentation h
 * [Telegram Operational Infrastructure](https://ag.tavardt.com/ca/super-intelligence/telegram/): Secure internal team notification conduits and real-time operational alerting bots.
 * [Instagram DM Conversational Workflows](https://ag.tavardt.com/ca/super-intelligence/instagram-dm/): Automated prospect intake, qualifying logic, and direct appointment scheduling.
 
----
+***
 
 ## 3. Proprietary Technical Diagnostic Tooling
 
@@ -101,7 +101,7 @@ The TAVARDT Diagnostic Suite is publicly accessible for technical validation, vu
 * [Broken Link & 404 Scanner](https://tools.tavardt.com/ca/broken-link-checker/): Scans internal and outbound links for dead endpoints and DNS resolution failures.
 * [Paid Media ROI & Blended CAC Calculator](https://tools.tavardt.com/ca/paid-media-roi-calculator/): Computes customer acquisition cost, return on ad spend (ROAS), and customer lifetime value (LTV).
 
----
+***
 
 ## 4. Technical Governance & Operational Standards
 
@@ -111,7 +111,7 @@ All technical assets and deployments managed within the TAVARDT Canada perimeter
 * Strict Security Posture: Enforcement of TLS 1.3, strict Content Security Policy (CSP Level 3), HSTS Preload, and automated DNSSEC verification.
 * Regulatory Adherence: Form designs and data ingestion pipelines follow PIPEDA, Quebec Law 25, CASL requirements, and CCCS baseline guidance.
 
----
+***
 
 ## 5. Contact & Institutional Inquiries
 
