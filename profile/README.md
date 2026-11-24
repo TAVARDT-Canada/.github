@@ -4,7 +4,7 @@
   </a>
 </p>
 
-# TAVARDT Canada | Engineering, Cybersecurity & Digital Growth Architecture
+# Engineering, Cybersecurity & Digital Growth Architecture
 
 TAVARDT is a digital engineering consultancy, cyber defence practice, and growth architecture firm delivering mission-critical web applications, proactive threat mitigation, and data-driven client acquisition systems.
 
@@ -119,3 +119,7 @@ All technical assets and deployments managed within the TAVARDT Canada perimeter
 * Technical Tools: [https://tools.tavardt.com/ca/](https://tools.tavardt.com/ca/)
 * Official Electronic Mail: [contact@tavardt.com](mailto:contact@tavardt.com)
 * Direct Client Intake: [Direct Technical Consultation with Sofia (WhatsApp)](https://wa.me/5584987721775?text=Hello%20Sofia,%20I%20am%20contacting%20you%20via%20the%20TAVARDT%20Canada%20GitHub%20organization%20regarding%20a%20technical%20inquiry.)
+
+***
+
+© 2026 TAVARDT. All rights reserved.
